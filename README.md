@@ -44,6 +44,9 @@ lib/
 - Dark mode
 
 
+## Screencast
+https://github.com/user-attachments/assets/a34ac32b-87d8-47cc-884d-4b08403c60b5
+
 ## About Me 
 ✨ I’m **Sufyan bin Uzayr**, an open-source developer passionate about building and sharing meaningful projects.
 You can learn more about me and my work at [sufyanism.com](https://sufyanism.com/) or connect with me on [Linkedin](https://www.linkedin.com/in/sufyanism)
@@ -58,5 +61,6 @@ You can learn more about me and my work at [sufyanism.com](https://sufyanism.com
 ➡ Follow us on Instagram: [zeba.academy](https://www.instagram.com/zeba.academy/)  </br>
 
 **Thank you for visiting!**
+
 
 
